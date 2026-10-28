@@ -1,0 +1,41 @@
+Factura: F-101
+Cliente: Carlos Mendoza
+Vendedor: Ana Rodriguez
+Valor: 150500.00
+Cantidad: 3
+Estado: registrado
+-----------------------
+Factura: F-102
+Cliente: Maria Camila Gomez
+Vendedor: Juan Pedroza
+Valor: 45000.00
+Cantidad: 1
+Estado: cancelado
+-----------------------
+Factura: F-103
+Cliente: Alejandro Restrepo
+Vendedor: Ana Rodriguez
+Valor: 1200000.00
+Cantidad: 12
+Estado: registrado
+-----------------------
+Factura: F-104
+Cliente: Lucia Fernandez
+Vendedor: Diego Beltran
+Valor: 85200.50
+Cantidad: 2
+Estado: registrado
+-----------------------
+Factura: F-105
+Cliente: Jorge Eliecer Sierra
+Vendedor: Juan Pedroza
+Valor: 310000.00
+Cantidad: 5
+Estado: cancelado
+-----------------------
+Factura: F-106
+Cliente: Sofia Buendia
+Vendedor: Diego Beltran
+Valor: 62000.00
+Cantidad: 1
+Estado: registrado
